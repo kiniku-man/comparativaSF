@@ -34,4 +34,4 @@
 - **Btrfs**: Ideal para servidores que necesitan snapshots, deduplicación y alta integridad de datos
 - **XFS**: Óptimo para servidores de alto rendimiento que manejan archivos muy grandes
 
-¿Necesitas más detalles sobre algún sistema de archivos en particular?
+
